@@ -1,0 +1,174 @@
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom\App Escritorio\Servycom VB\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\DANIEL BUSNARDO\Desktop\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\DANIEL BUSNARDO\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+D:\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+D:\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe
+D:\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.pdb
+D:\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.xml
+D:\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.xml
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.login.resources
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+D:\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\s_oli\Box Sync\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\s_oli\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\s_oli\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\s_oli\Box Sync\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\s_oli\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\DANIEL BUSNARDO\OneDrive\Sistemas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\DANIEL BUSNARDO\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\DANIEL BUSNARDO\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\DANIEL BUSNARDO\OneDrive\Sistemas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom VB acc\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.ResolveComReference.cache
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.ResolveComReference.cache
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\Desktop\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.frmNuevoAdmin.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.dll
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.ResolveComReference.cache
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.frmNuevoAdmin.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
