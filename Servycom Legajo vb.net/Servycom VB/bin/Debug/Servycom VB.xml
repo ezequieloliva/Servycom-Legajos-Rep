@@ -2,66 +2,109 @@
 <doc>
 <assembly>
 <name>
-Servycom VB
+ServycomVB
 </name>
 </assembly>
 <members>
-<member name="T:Servycom_VB.My.Resources.Resources">
-<summary>
-  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+<member name="T:Servycom_VB.rrhhDataSet.usuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
 </summary>
-</member>
-<member name="P:Servycom_VB.My.Resources.Resources.ResourceManager">
-<summary>
+</member><member name="T:Servycom_VB.rrhhDataSet.usuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSet.usuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSetTableAdapters.usuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Servycom_VB.rrhhDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Servycom_VB.rrhhDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Servycom_VB.rrhhDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.UpdateAll(Servycom_VB.rrhhDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Servycom_VB.rrhhDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Servycom_VB.My.Resources.Resources.ResourceManager">
+	<summary>
   Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
 </summary>
-</member>
-<member name="P:Servycom_VB.My.Resources.Resources.Culture">
-<summary>
+</member><member name="P:Servycom_VB.My.Resources.Resources.Culture">
+	<summary>
   Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
   búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
 </summary>
-</member>
-<member name="P:Servycom_VB.My.Resources.Resources.refresh">
-<summary>
+</member><member name="P:Servycom_VB.My.Resources.Resources.refresh">
+	<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="P:Servycom_VB.My.Resources.Resources.torta">
-<summary>
+</member><member name="P:Servycom_VB.My.Resources.Resources.torta">
+	<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member>
-<member name="M:Servycom_VB.loginMYSQL.SelectSQL(System.String,System.Windows.Forms.DataGridView)">
- <summary>
- Metodo que ejecuta una consulta
- </summary>
- <param name="consulta">Sentencia SQL Select</param>
- <param name="grilla">Nombre de Data grid view que rellenera</param>
-</member>
-<member name="M:Servycom_VB.loginMYSQL.QuerySql(System.String)">
- <summary>
- Metodo que ejecuta un executeNonQuery(insert, delete o update)
- </summary>
- <param name="consulta">Sentenci SQL que debe realizar</param>
-</member>
-<member name="M:Servycom_VB.loginMYSQL.Novedades(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
- <summary>
- Metodo que llena tabla con cada usuario y por cada usuario llama el metodo listarNovedades
- </summary>
-</member>
-<member name="M:Servycom_VB.loginMYSQL.calcularDiaTrabajado(System.Int32,System.Int32,System.Int32)">
- <summary>
- Metodo que calcula si se le computa dia de oficina u obra al tecnico
- </summary>
- <param name="logueosObra"></param>
- <param name="logueosDeposito"></param>
- <param name="logueosOficina"></param>
-</member>
-<member name="M:Servycom_VB.rrhh.cargarNovedades">
- <summary>
+</member><member name="T:Servycom_VB.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Servycom_VB.rrhh.cargarNovedades">
+	<summary>
  Metodo privado que crga las novedades
  </summary>
+</member><member name="M:Servycom_VB.loginMYSQL.SelectSQL(System.String,System.Windows.Forms.DataGridView)">
+	<summary>
+ Metodo que ejecuta una consulta
+ </summary>
+	<param name="consulta">Sentencia SQL Select</param>
+	<param name="grilla">Nombre de Data grid view que rellenera</param>
+</member><member name="M:Servycom_VB.loginMYSQL.QuerySql(System.String)">
+	<summary>
+ Metodo que ejecuta un executeNonQuery(insert, delete o update)
+ </summary>
+	<param name="consulta">Sentenci SQL que debe realizar</param>
+</member><member name="M:Servycom_VB.loginMYSQL.Novedades(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+	<summary>
+ Metodo que llena tabla con cada usuario y por cada usuario llama el metodo listarNovedades
+ </summary>
+</member><member name="M:Servycom_VB.loginMYSQL.calcularDiaTrabajado(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Metodo que calcula si se le computa dia de oficina u obra al tecnico
+ </summary>
+	<param name="logueosObra"></param>
+	<param name="logueosDeposito"></param>
+	<param name="logueosOficina"></param>
 </member>
 </members>
 </doc>

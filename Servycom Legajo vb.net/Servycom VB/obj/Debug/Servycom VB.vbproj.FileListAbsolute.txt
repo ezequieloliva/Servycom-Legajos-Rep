@@ -172,3 +172,26 @@ C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom
 C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.xml
 C:\Users\Ezequiel Oliva\Desktop\Sistemas Pruebas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.pdb
 C:\Users\Ezequiel Oliva\OneDrive\Sistemas\Completas\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.config
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.ResolveComReference.cache
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.xml
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.pdb
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe.manifest
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.application
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.exe
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.pdb
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\Servycom VB.xml
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\MySql.Data.xml
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbprojResolveAssemblyReference.cache
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.frmNuevoAdmin.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.login.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.ModificarLegajo.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.Resources.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.NuevoLegajo.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.rrhh.resources
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.vbproj.GenerateResource.Cache
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.exe.manifest
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom VB.application
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\bin\Debug\rrhh.accdb
+C:\Users\FABIAN\Documents\Servycom-Legajos-Rep\Servycom Legajo vb.net\Servycom VB\obj\Debug\Servycom_VB.Cambio_de_contraseña.resources

@@ -595,4 +595,16 @@ Public Class rrhh
         exportarExcel(grillaNovedadesEnero)
     End Sub
 #End Region
+
+    Private Sub TabPage24_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
+        Cambio_de_contraseña.Show()
+    End Sub
+
+    Private Sub comboFiltroEmpleados_SelectedIndexChanged(sender As Object, e As EventArgs) Handles comboFiltroEmpleados.SelectedIndexChanged
+
+    End Sub
 End Class

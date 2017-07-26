@@ -15,16 +15,16 @@
       </applicationRequestMinimum>
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
-          Opciones del manifiesto de UAC
+          Opciones del manifiesto de Control de cuentas de usuario
           Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
-          nodo requestedExecutionLevel por uno de los siguientes.
+          nodo requestedExecutionLevel por alguno de los siguientes.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         Si desea usar Virtualización de archivos y Registro para compatibilidad con 
-         versiones anteriores, elimine el nodo requestedExecutionLevel.
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
@@ -55,24 +55,33 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Servycom VB.exe" size="460152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Servycom VB.exe" size="520704">
       <assemblyIdentity name="Servycom VB" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>giFP6VT7dbqejzFnjoihYx/7lfQ=</dsig:DigestValue>
+        <dsig:DigestValue>I2cy5tJ/fedLSDDfv0z140uLcnA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Servycom VB.exe.config" size="2166">
+  <file name="rrhh.accdb" size="610304">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>C8x4j+xBeece8GBY0F2O9mmVT+U=</dsig:DigestValue>
+      <dsig:DigestValue>mm6Z22S/dkA1ySH7xJ6L/jvvwW8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Servycom VB.exe.config" size="2426">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RoG8RfapqI17Sa2GflH3ETGJP9I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Sora-Meliae-Matrilineare-Apps-addressbook.ico" size="180669">
