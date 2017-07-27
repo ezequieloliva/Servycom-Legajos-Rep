@@ -1,0 +1,37 @@
+
+° Legajo y Administracion
+	- Arquitectura en 3 capas
+		- MVC ==> permite independencia entre tecnologias. Permite abstraer un sistema, tener capa de modelo en vb, capa de control en c# y vista en escritorio, web o mobil porej.
+			-Modelo= Biblioteca de clases.
+				     Crear clase connector (static internal). Function conectarse y metodo desconectarse
+					 Crear una clase por cada tabla.
+						Crear una prpiedad por cada columna
+						Crear Constructor de objeto
+					 Es la capa encargada de tener contacto con DB.
+					 <!-- Desde Vista se crea objeto. Y desde Control se inserta, elimina, actualiza o seleccionan datos. -->
+					 
+			-Control= Biblioteca de clases.
+					  Esta capa se encarga de la logica de negocio.
+					  Es el medio entre Vista(Interfaces) y Modelo(datos).
+					  Es la mas importante ya que valida si se llega a los datos o no.
+					  Provee manejo de errores.
+					 <!--la capa que contiene los metodos.(Insert, Update, Delete, Select entre otros)-->
+					  
+			-Vista=  Windows Form.
+					 Importar las referencias de las DLL anteriores.
+					 Crear Forms
+					 Desde aca se cren objetos de tipo Modelo y luego se invoca un metodo de tipo Control
+					 
+	- Base de datos en SQL Server
+		- Analizar si se trabajara con store procedure o sentencias puras en codigo.
+		- Programar back up.
+		-Instalar Servidor.
+		
+° Loguin  => analizar si lo hacemos en ASP.NET(mas prolijo, seguro y dinamico) o queda en PHP con JavaScript
+	- Base de datos Mysql
+		- El loguin seguira en esta DB.
+	
+	
+° Adm de redes y usuarios
+	-Se debera crear una red interna en Servycom para que se puedan conectar al servidor que instalaremos.
+	- Ver como dar permisos y demas a db.
